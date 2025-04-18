@@ -96,6 +96,6 @@ The Vehicle Management System reflects proper relational modeling and effective 
 
 ## 🙌 Created by
 
-- **Saurabh Vishwakarma**
-- BCA + B.S. in Data Science  
+- **Pankaj Verma**
+    - BCA  
 - Rollin' with SQL, cruisin' with code. 😎
